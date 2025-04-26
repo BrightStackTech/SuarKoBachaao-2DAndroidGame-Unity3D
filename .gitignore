@@ -1,0 +1,58 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity generated meta files
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+
+# OS or IDE files
+.DS_Store
+*.swp
+*.iml
+*.idea/
+.vscode/
+
+# Auto-generated
+ExportedObj/
+.consulo/
+*.apk
+*.unitypackage
+
+# Crash logs
+sysinfo.txt
+*.stacktrace
+
+# TextMesh Pro auto-generated files
+TextMesh Pro/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Git LFS (if you're using it for large binary files)
+*.psd
+*.png
+*.jpg
+*.fbx
+*.mp4
+*.wav
+*.mp3
